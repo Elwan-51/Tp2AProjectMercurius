@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    width: 100vw;
+    min-height: 100%;
+}
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0;
+    padding:0;
+}
+.navbar{
+    background-color: rgb(235,167,83);
+}
+
+.primary-color {
+    background-color: rgb(235,167,83);
+}
+
+.text-secondary-color {
+    color: rgb(101,86,68);
+}
+
+.fit-content {
+    width: fit-content;
+}
